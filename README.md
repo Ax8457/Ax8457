@@ -2,4 +2,4 @@
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ax8457&layout=compact&theme=swift&hide_border=true"/></a>
 
-![Your activity](https://activity-graph.herokuapp.com/graph?username=Ax8457&theme=react-light)
+![Your activity](https://activity-graph.herokuapp.com/graph?username=Ax8457&theme=react)
